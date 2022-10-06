@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.ufrn.imd"},{"l":"br.ufrn.imd.domain"},{"l":"br.ufrn.imd.service"}];updateSearchResults();
