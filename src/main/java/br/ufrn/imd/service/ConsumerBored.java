@@ -20,6 +20,6 @@ public class ConsumerBored {
     public void run(){
         BoredQuote boredQuote = restTemplate.getForObject(
                 "https://www.boredapi.com/api/activity",BoredQuote.class);
-        System.out.println(boredQuote.toString());
+        //System.out.println(boredQuote.toString());
     }
 }
