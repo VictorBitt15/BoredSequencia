@@ -42,7 +42,7 @@ public class Menu implements IMenu{
     @Override
     public String CreateMenu() {
         Scanner sc = new Scanner(System.in);
-        /*System.out.println("---------------");
+        System.out.println("---------------");
         System.out.println("Digite a quantidade de requisições desejada:");
         System.out.println("1 - 10 Requisições");
         System.out.println("2 - 100 Requisições");
@@ -53,7 +53,7 @@ public class Menu implements IMenu{
         System.out.println("7 - 1500 Requisições");
         System.out.println("0 - Sair");
         System.out.println("---------------");
-        System.out.print("Operação: ");*/
+        System.out.print("Operação: ");
         String operacao = sc.nextLine();
         return operacao;
     }
